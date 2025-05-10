@@ -1,6 +1,6 @@
-# previn-web
+# sonnda-web
 
-## Repositórios do projeto RastreaMed
+## Repositórios do projeto Sonnda
 
 - [🌐 Web - Interface do Médico](https://github.com/gabrielgcmr/previn-web)
 - [📱 Mobile - App do Paciente](https://github.com/gabrielgcmr/previn-mobile)
